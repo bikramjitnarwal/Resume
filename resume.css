@@ -24,12 +24,13 @@ body {
     width: 100%;
     text-align: left;
     border-bottom: solid 1px #000;
+
 }
 
 a:link,
 a:visited {
     color: #666;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 p {
@@ -69,8 +70,9 @@ h2 {
     margin-top: 0.1em;
     margin-bottom: 0.4em;
     font-weight: 300;
-    font-size: 13pt;
+    font-size: 19pt;
     color: #666;
+    margin-left: -1px;
 }
 
 ul {
