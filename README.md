@@ -1,2 +1,3 @@
 # Resume
-Here you will find my resume. Please hire me. 
+Here you will find my OLD resume. To get a current version of my resume please email me. 
+
